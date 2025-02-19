@@ -1,3 +1,83 @@
-#main-wrapper {
-  background-color: blue;
+.navbar {
+  background-color: #A8E0FF;
+}
+
+.navbar-expand-lg{
+  background-color: #302B27;
+}
+
+.body {
+  background-color: #FEF4EC;
+}
+
+.nav-link {
+  background-color: #FEF4EC;
+  border-radius: 0.5em;
+  margin: 1em;
+  margin-bottom: 2em;
+}
+
+.breadcrumb ol{
+  background-color: #302B27;
+}
+
+.site-footer{
+  background-color: #FEF4EC;
+}
+
+.navbar-brand{
+  padding: 1.5em;
+  margin-bottom: 1em;
+  margin-top: 1em;
+}
+
+.nav-link a{
+  color: #0a58ca;
+}
+
+.comment-delete{
+  background-color: white;
+}
+
+.comment-edit{
+  background-color: white;
+}
+
+.comment-reply{
+  background-color: white;
+}
+
+.inline__links .comment-forbidden {
+  background-color: transparent;
+}
+
+.card div{
+  background-color: white;
+}
+
+.card-body{
+  background-color: white;
+  padding: 0em;
+}
+
+.js-form-item .form-control{
+  background-color: white;
+}
+
+h2 {
+  color: #A8E0FF;
+}
+
+.title {
+  color: black;
+}
+
+article .comment__content {
+  padding-left: 0em;
+  padding-right: 0em;
+}
+
+#block-metheme-useraccountmenu-menu {
+  color: transparent;
+  background-color: white;
 }
